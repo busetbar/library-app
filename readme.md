@@ -5,8 +5,8 @@
 
 ## Prerquisite
 1. Open JDK 17 or Java 17
-2. Gradle 8.12
-3. Springboot 3.4.1
+2. Gradle 8.12 installing using SDKMAN
+3. Springboot 3.4.1 installing using SDKMAN
 4. Database Mysql/Mariadb
 5. Database Name = libraryapp
 ## Catatan
